@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC_day1", "AOC\AOC_day1.csproj", "{34B1D544-E8E6-4138-ACC6-ED8280D4D7B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC_day2", "AOC_day2\AOC_day2.csproj", "{EC0A8124-78CE-41CB-8C12-C6C8B1419762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B1D544-E8E6-4138-ACC6-ED8280D4D7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B1D544-E8E6-4138-ACC6-ED8280D4D7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B1D544-E8E6-4138-ACC6-ED8280D4D7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B1D544-E8E6-4138-ACC6-ED8280D4D7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0A8124-78CE-41CB-8C12-C6C8B1419762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0A8124-78CE-41CB-8C12-C6C8B1419762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0A8124-78CE-41CB-8C12-C6C8B1419762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0A8124-78CE-41CB-8C12-C6C8B1419762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {390B27F0-F57D-43C7-9E13-0457B8B13B12}
+	EndGlobalSection
+EndGlobal
