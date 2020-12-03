@@ -9,7 +9,7 @@ namespace AOC_day2
         static void Main(string[] args)
         {
             int i = 0, j = 0;
-            var nums = File.ReadAllLines("text.txt");
+            var nums = File.ReadAllLines(@"..\..\..\text.txt");
             foreach (var line in nums)
             {
                 var splited = line.Split();

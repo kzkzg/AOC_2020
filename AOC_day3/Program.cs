@@ -9,7 +9,7 @@ namespace AOC_day3
     {
         static void Main(string[] args)
         {
-            var lines = File.ReadAllLines("text.txt").ToList();
+            var lines = File.ReadAllLines(@"..\..\..\text.txt").ToList();
             for (int j = 0; j < lines.Count(); j++)
             {
                 var line = lines[j];

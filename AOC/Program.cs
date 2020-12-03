@@ -1,5 +1,4 @@
-﻿using System;
-using System.IO;
+﻿using System.IO;
 using System.Linq;
 using static System.Console;
 
@@ -9,7 +8,7 @@ namespace AOC
     {
         static void Main(string[] args)
         {
-            var nums = File.ReadAllLines("text.txt").Select(o => int.Parse(o));
+            var nums = File.ReadAllLines(@"..\..\..\text.txt").Select(o => int.Parse(o));
             WriteLine(One(nums.ToArray()));
             WriteLine(Two(nums.ToArray()));
             ReadKey();
